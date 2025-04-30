@@ -22,6 +22,6 @@ This project uses Factorio as a dynamic testbed to evaluate LLMs through a custo
 
 ![Diagram](diagram.jpg)
 
-https://drive.google.com/file/d/1rQ9mCtRjmY40LvZW1R_IWhIw-sIEvBvi/view?usp=sharing
+[Watch the demo on Google Drive](https://drive.google.com/file/d/1rQ9mCtRjmY40LvZW1R_IWhIw-sIEvBvi/view?usp=sharing)
 
-https://docs.google.com/forms/d/1HOGyN7R0X7IxZQgd1W-rE6EnoC1Kqt41RtmEVqb6fMY/edit
+[![Fill out the form]([https://via.placeholder.com/300x80.png?text=Submit+Feedback+Form)](https://forms.gle/YOUR_FORM_ID](https://docs.google.com/forms/d/1HOGyN7R0X7IxZQgd1W-rE6EnoC1Kqt41RtmEVqb6fMY/edit)
