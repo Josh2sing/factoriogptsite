@@ -20,20 +20,6 @@ This project uses Factorio as a dynamic testbed to evaluate LLMs through a custo
 - Returned commands are parsed and dispatched to a local Factorio server via RCON
 - Factory updates are monitored and scored manually or automatically
 
-```mermaid
-flowchart TD
-    A[Local Factorio Server] <--> B[RCON Protocol]
-    
-    C[Java Class] --> D[Read Prompts File]
-    D --> E[Send Prompt to LLM]
-    E --> F[LLM Processes Prompt]
-    F --> G[LLM Generates Response]
-    G --> H[Java Class Receives Response]
-    
-    H -->|Contains Command?| I{Command Check}
-    I -->|Yes| J[Extract Command]
-    J --> K[Send Command to RCON]
-    K --> B
-    
-    I -->|No| L[Process Non-Command Response]
-    L --> E
+![Diagram](diagram.jpg)
+
+!(Video)(capstonevideo.mp4)
