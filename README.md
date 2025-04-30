@@ -22,7 +22,7 @@ This project uses Factorio as an interactive simulation environment to evaluate 
 4. **Game Feedback** — Factorio returns either a new game state or an error, which informs the next prompt cycle.
 5. **Scoring** — Factory performance is scored manually or through custom mods.
 
-![Diagram](diagram.jpg)
+![Diagram](capstonediagram.png)
 
 ---
 
