@@ -14,6 +14,10 @@ This project uses Factorio as an interactive simulation environment to evaluate 
 
 ---
 
+## About Me
+
+My name is Josh, and I’m a Computer Science student with a focus on AI, systems programming, and software development. This capstone project allowed me to explore the intersection of language models, game automation, and real-time system design. I developed the project infrastructure—including a custom Java control server, in-game Lua mod, and a prompt testing framework—to evaluate how GPT-4 can be guided to perform complex tasks inside Factorio. Through this work, I gained experience in prompt engineering, API integration, and applying AI in a dynamic simulation environment. I'm passionate about building intelligent systems that bridge language and action, and this project has deepened my interest in the future of AI agents in real-world applications.
+
 ## System Architecture
 
 1. **Prompt Input** — Prompts and initial game state are defined locally.
